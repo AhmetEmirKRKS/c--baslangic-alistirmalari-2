@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\obj\Debug\c#.alıştırmalar2.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\obj\Debug\c#.alıştırmalar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\obj\Debug\c#.alıştırmalar2.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\bin\Debug\c#.alıştırmalar2.exe.config
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\bin\Debug\c#.alıştırmalar2.exe
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\bin\Debug\c#.alıştırmalar2.pdb
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\obj\Debug\c#.alıştırmalar2.exe
+C:\Users\ahmet\source\repos\c#.alıştırmalar2\c#.alıştırmalar2\obj\Debug\c#.alıştırmalar2.pdb
